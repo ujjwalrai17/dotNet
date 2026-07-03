@@ -1,0 +1,15 @@
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\bin\Debug\net10.0\Exercise 3 Sorting Customer Order.exe
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\bin\Debug\net10.0\Exercise 3 Sorting Customer Order.deps.json
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\bin\Debug\net10.0\Exercise 3 Sorting Customer Order.runtimeconfig.json
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\bin\Debug\net10.0\Exercise 3 Sorting Customer Order.dll
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\bin\Debug\net10.0\Exercise 3 Sorting Customer Order.pdb
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.AssemblyInfoInputs.cache
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.AssemblyInfo.cs
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.csproj.CoreCompileInputs.cache
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.sourcelink.json
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.dll
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\refint\Exercise 3 Sorting Customer Order.dll
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.pdb
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\Exercise 3 Sorting Customer Order.genruntimeconfig.cache
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exercise 3 Sorting Customer Order\obj\Debug\net10.0\ref\Exercise 3 Sorting Customer Order.dll
