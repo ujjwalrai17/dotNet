@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ujjwal\\Desktop\\dotNet\\DeepSkilling\\EngineeringConcepts\\Algorithm_DataStructures\\Exercise 4 Employee Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C964E7A-B257-4989-8607-E3A4102BFE30}|Exercise 4 Employee Management System.csproj|c:\\users\\ujjwal\\desktop\\dotnet\\deepskilling\\engineeringconcepts\\algorithm_datastructures\\exercise 4 employee management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C964E7A-B257-4989-8607-E3A4102BFE30}|Exercise 4 Employee Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ujjwal\\Desktop\\dotNet\\DeepSkilling\\EngineeringConcepts\\Algorithm_DataStructures\\Exercise 4 Employee Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ujjwal\\Desktop\\dotNet\\DeepSkilling\\EngineeringConcepts\\Algorithm_DataStructures\\Exercise 4 Employee Management System\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:23:48.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
