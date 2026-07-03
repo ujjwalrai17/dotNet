@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ujjwal\\Desktop\\dotNet\\DeepSkilling\\EngineeringConcepts\\Algorithm_DataStructures\\Exercise1\\Exericse1_InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5739ABE7-C4FD-4330-B423-6158253DE76C}|Exericse1_InventoryManagementSystem.csproj|c:\\users\\ujjwal\\desktop\\dotnet\\deepskilling\\engineeringconcepts\\algorithm_datastructures\\exercise1\\exericse1_inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5739ABE7-C4FD-4330-B423-6158253DE76C}|Exericse1_InventoryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ujjwal\\Desktop\\dotNet\\DeepSkilling\\EngineeringConcepts\\Algorithm_DataStructures\\Exercise1\\Exericse1_InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ujjwal\\Desktop\\dotNet\\DeepSkilling\\EngineeringConcepts\\Algorithm_DataStructures\\Exercise1\\Exericse1_InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T06:45:11.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
