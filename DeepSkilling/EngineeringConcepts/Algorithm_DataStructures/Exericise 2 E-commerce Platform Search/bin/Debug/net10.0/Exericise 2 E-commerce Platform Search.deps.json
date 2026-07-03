@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exericise 2 E-commerce Platform Search/1.0.0": {
+        "runtime": {
+          "Exericise 2 E-commerce Platform Search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exericise 2 E-commerce Platform Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

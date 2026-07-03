@@ -1,0 +1,15 @@
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.AssemblyInfoInputs.cache
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.AssemblyInfo.cs
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.csproj.CoreCompileInputs.cache
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.sourcelink.json
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\bin\Debug\net10.0\Exericise 2 E-commerce Platform Search.exe
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\bin\Debug\net10.0\Exericise 2 E-commerce Platform Search.deps.json
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\bin\Debug\net10.0\Exericise 2 E-commerce Platform Search.runtimeconfig.json
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\bin\Debug\net10.0\Exericise 2 E-commerce Platform Search.dll
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\bin\Debug\net10.0\Exericise 2 E-commerce Platform Search.pdb
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.dll
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\refint\Exericise 2 E-commerce Platform Search.dll
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.pdb
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\Exericise 2 E-commerce Platform Search.genruntimeconfig.cache
+C:\Users\ujjwal\Desktop\dotNet\DeepSkilling\EngineeringConcepts\Algorithm_DataStructures\Exericise 2 E-commerce Platform Search\obj\Debug\net10.0\ref\Exericise 2 E-commerce Platform Search.dll
